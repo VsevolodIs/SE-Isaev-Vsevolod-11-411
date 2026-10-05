@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pt
+*.h5
+task4_video/runs/
+.idea/
